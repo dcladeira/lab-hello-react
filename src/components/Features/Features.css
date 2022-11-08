@@ -1,0 +1,25 @@
+.Features {
+    margin: 0 30px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: flex-end; */
+    align-items: flex-start;
+}
+
+.Features img {
+    margin: 0;
+    padding: 0;
+}
+
+.Features h1 {
+    margin: 0;
+    padding: 0 20px;
+    font-size: 25px;
+}
+
+.Features p {
+    margin: 0;
+    padding: 0 20px;
+    text-align: left;
+}
